@@ -26,6 +26,7 @@ I also have 3D printed endcaps but those are available as well from amazon just 
 Finally, I made cable management clips. There are two sizes, one for the 35mm pole and legs and a larger one for the bottom center post. They’re designed to work with ½ inch Velcro cable ties like these: [VELCRO Brand ONE-WRAP Cable Ties](https://www.amazon.com/VELCRO-Brand-Cable-Ties-100Pk/dp/B001E1Y5O6/ref=sr_1_3?crid=2FYXRVCLYZWOJ&dib=eyJ2IjoiMSJ9.ZAKfKMsw_2U1hbNzmOiwzzNji4V6h5SkEAPVWpMRLoYjMO3F4WsEKNZnyGt933ecs1MivWP-S5dCBeoBNwyP68ziO-6BvaqLQnPbpS0RPbDqnXZNOrunYAHMrOA0b4RIJHK-beeENVVmSA4sUUkfkBwjVhyahlQCLUpOQN25E5gwD6lFI5jgSrV7NMEGVxSUvOSdqeKNokQ4u2wJSZOU98-60xbf8pZsUGNUAlxApx74K9bYUQ5gJso0Djbybogb8ftHvs5HQx4TCsNUvBs1h-bbHoFrIv0qOYygMD5xwlU.8aC4z_CqGvatln9z4Mw0B6uyRthOeNnLoLNNCGIiYCU&dib_tag=se&keywords=electronic%2Bcable%2Bties&qid=1747083450&rdc=1&s=industrial&sprefix=electronic%2Bcable%2Btie%2Cindustrial%2C143&sr=1-3&th=1)
 
 Note I’m not making any money on any of these links they’re just provided for your convenience. If you want to choose something else feel free.
+I made a list of all the itmes if you want access to all the suggested items in one list. [Shopping List](https://www.amazon.com/hz/wishlist/ls/1IN89FMR80QVG?ref_=wl_share)
 
 I’m also open to suggestions. If you want a Room Bar mount, I can build one. If you have other suggestions just reach out to me at [tpetzold@cisco.com](mailto:tpetzold@cisco.com)
 
