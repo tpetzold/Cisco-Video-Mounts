@@ -38,6 +38,14 @@ Quad Camera Mount
 
 Bar Pro Mount
 
+![Image](https://github.com/user-attachments/assets/e6df578e-490e-4fee-a40c-18c906684d7a)
+
+Room Bar Mount
+
 ![Image](https://github.com/user-attachments/assets/cf5c86a1-1040-4d9a-8d29-31ab58cd6bc4)
 
 PTZ4k Mount
+
+![Image](https://github.com/user-attachments/assets/e3dc53a3-386b-46e6-b286-e168e66c1406)
+
+PTZ4k Mount with RC5-CE mount integrated
