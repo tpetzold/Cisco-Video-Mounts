@@ -49,3 +49,7 @@ PTZ4k Mount
 ![Image](https://github.com/user-attachments/assets/e3dc53a3-386b-46e6-b286-e168e66c1406)
 
 PTZ4k Mount with RC5-CE mount integrated
+
+![Image](https://github.com/user-attachments/assets/e3dc53a3-386b-46e6-b286-e168e66c1406)
+
+Camera Power Supply Mount
