@@ -31,25 +31,22 @@ I made a list of all the itmes if you want access to all the suggested items in 
 I’m also open to suggestions. If you want a Room Bar mount, I can build one. If you have other suggestions just reach out to me at [tpetzold@cisco.com](mailto:tpetzold@cisco.com)
 
 ![Image](https://github.com/user-attachments/assets/d0fc9a4c-1450-4319-a7a7-badaeb550ddf)
-
 Quad Camera Mount
 
 ![Image](https://github.com/user-attachments/assets/19f10035-9770-4854-ac64-22c700265307)
-
 Bar Pro Mount
 
 ![Image](https://github.com/user-attachments/assets/e6df578e-490e-4fee-a40c-18c906684d7a)
-
 Room Bar Mount
 
 ![Image](https://github.com/user-attachments/assets/cf5c86a1-1040-4d9a-8d29-31ab58cd6bc4)
-
 PTZ4k Mount
 
 ![Image](https://github.com/user-attachments/assets/e3dc53a3-386b-46e6-b286-e168e66c1406)
-
 PTZ4k Mount with RC5-CE mount integrated
 
-![Image](https://github.com/user-attachments/assets/2cc3bfae-33d5-4c29-8997-6ec935557f30)
+![Image](https://github.com/user-attachments/assets/726e8083-7d04-4b77-8ed5-f10d0bbd57cd)
+Precision 60 Mount
 
+![Image](https://github.com/user-attachments/assets/2cc3bfae-33d5-4c29-8997-6ec935557f30)
 Camera Power Supply Mount
